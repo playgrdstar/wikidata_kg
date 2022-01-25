@@ -6,4 +6,4 @@ Credits to this [source][1] for the list of NYSE and NASDAQ company entity IDs i
 A writeup on the code in this repo. is available [here][2].
 
 [1]:    https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
-[2]:    ...
+[2]:    https://quaintitative.com/extract_process_wikidata/
